@@ -5,7 +5,7 @@ This is a tutorial for installing Security Onion 2.4 Standalone instance with Vi
 
 
 ## Content
-[Downloading Security Onion ISO](https://github.com/borelli28/security-onion-install-tutorial?tab=readme-ov-file#downloading-security-onion-iso)
+[Downloading Security Onion ISO](https://github.com/mchyasn/security-onion-install-tutorial?tab=readme-ov-file#downloading-security-onion-iso)
 
 [Settings Linux Mint VM](https://github.com/borelli28/security-onion-install-tutorial?tab=readme-ov-file#settings-linux-mint-vm)
 
