@@ -5,15 +5,15 @@ This is a tutorial for installing Security Onion 2.4 Standalone instance with Vi
 
 
 ## Content
-[Downloading Security Onion ISO](https://github.com/mchyasn/security-onion-install-tutorial?tab=readme-ov-file#downloading-security-onion-iso)
+[Downloading Security Onion ISO]([https://github.com/mchyasn/Security-Onion-2-Detection-Lab?tab=readme-ov-file#downloading-security-onion-iso)
 
-[Settings Linux Mint VM](https://github.com/borelli28/security-onion-install-tutorial?tab=readme-ov-file#settings-linux-mint-vm)
+[Settings Linux Mint VM](https://github.com/mchyasn/Security-Onion-2-Detection-Lab?tab=readme-ov-file#settings-linux-mint-vm)
 
-[Settings of Security Onion VM in VirtualBox](https://github.com/borelli28/security-onion-install-tutorial?tab=readme-ov-file#settings-of-security-onion-vm-in-virtualbox)
+[Settings of Security Onion VM in VirtualBox](https://github.com/mchyasn/Security-Onion-2-Detection-Lab?tab=readme-ov-file#settings-of-security-onion-vm-in-virtualbox)
 
-[Security Onion instance setup](https://github.com/borelli28/security-onion-install-tutorial?tab=readme-ov-file#security-onion-instance-setup)
+[Security Onion instance setup](https://github.com/mchyasn/Security-Onion-2-Detection-Lab?tab=readme-ov-file#security-onion-instance-setup)
 
-[Access Security Onion SOC Portal](https://github.com/borelli28/security-onion-install-tutorial?tab=readme-ov-file#access-security-onion-soc-portal)
+[Access Security Onion SOC Portal](https://github.com/mchyasn/Security-Onion-2-Detection-Lab?tab=readme-ov-file#access-security-onion-soc-portal)
 
 
 #### Downloading Security Onion ISO
